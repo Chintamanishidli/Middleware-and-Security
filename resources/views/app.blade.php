@@ -19,7 +19,7 @@
 </head>
 
 <body class="font-sans antialiased">
-    @inertia chintamai
+    @inertia
 </body>
 
 </html>
